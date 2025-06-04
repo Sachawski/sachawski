@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Sacha Wski] — Fullstack Developer
+# 👋 Hi, I’m Sacha Wski — Fullstack Developer
 
 Welcome to my GitHub profile!  
 I’m a fullstack developer focused on building robust, scalable, and well-structured web applications. I enjoy working across the entire stack — from designing clean and responsive UIs to implementing efficient backend architectures and APIs.
@@ -35,7 +35,7 @@ Always open to interesting tech challenges, smart collaboration, and projects th
 
 You can find me here:
 - [LinkedIn](https://www.linkedin.com/in/sacha-w)
-- [your.email@example.com](mailto:sachawojpro@gmail.com)
+- [sachawojpro@gmail.com](mailto:sachawojpro@gmail.com)
 
 ---
 
