@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I’m [Sacha Wski] — Fullstack Developer
 
-<!--
-**Sachawski/sachawski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I’m a fullstack developer focused on building robust, scalable, and well-structured web applications. I enjoy working across the entire stack — from designing clean and responsive UIs to implementing efficient backend architectures and APIs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Core Tech Stack
+
+- **Frontend**: Angular, TypeScript, HTML5, SCSS (mainly Tailwind CSS)
+- **Backend**: Java, Kotlin, Spring,
+- **Databases**: PostgreSQL, Hibernate as ORM
+- **Testing**: Mockito, AssertJ, Karma
+- **Tools & DevOps**: Git, GitLab CI/CD, Docker, Kubernetes
+
+---
+
+## 💡 What I Build
+
+I mainly work on:
+- Responsive, accessible user interfaces
+- Clean and well-documented REST APIs
+- Fullstack TypeScript applications with strong architecture
+- Internal tools that improve developer workflows
+
+---
+
+## 🚀 What I'm Looking For
+
+Always open to interesting tech challenges, smart collaboration, and projects that value clean code and thoughtful design. I believe in simplicity, consistency, and continuous learning.
+
+---
+
+## 📫 Get in Touch
+
+You can find me here:
+- [LinkedIn](https://www.linkedin.com/in/sacha-w)
+- [your.email@example.com](mailto:sachawojpro@gmail.com)
+
+---
+
+Thanks for stopping by 👀  
+Feel free to explore my projects or reach out if you’d like to collaborate!
