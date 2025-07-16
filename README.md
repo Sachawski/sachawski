@@ -17,8 +17,7 @@ I’m a fullstack developer focused on building robust, scalable, and well-struc
 I mainly work on:
 - Responsive, accessible user interfaces
 - Clean and well-documented REST APIs
-- Fullstack TypeScript applications with strong architecture
-- Internal tools that improve developer workflows
+- Fullstack applications with strong architecture
 
 ## 🚀 What I'm Looking For
 
@@ -33,4 +32,3 @@ You can find me here:
 ---
 
 Thanks for stopping by 👀  
-Feel free to explore my projects or reach out if you’d like to collaborate!
