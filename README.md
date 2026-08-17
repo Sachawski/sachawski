@@ -18,7 +18,7 @@ Always open to interesting tech challenges, smart collaboration, and projects th
 
 You can find me here:
 - [LinkedIn](https://www.linkedin.com/in/sacha-w)
-- [sachawojpro@gmail.com](mailto:professionnel@sachawski.fr)
+- [email@me](mailto:professionnel@sachawski.fr)
 
 ---
 
