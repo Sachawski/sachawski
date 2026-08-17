@@ -5,19 +5,10 @@ I’m a fullstack developer focused on building robust, scalable, and well-struc
 
 ## 🧰 Core Tech Stack
 
-- **Frontend**: Angular, TypeScript, HTML5, SCSS (mainly Tailwind CSS)
-- **Backend**: Java, Kotlin, Spring,
-- **Databases**: PostgreSQL, Hibernate as ORM
-- **Testing**: Mockito, AssertJ, Karma
+- **Backend**: Kotlin, Ktor
+- **Cloud**: AWS & Azure
 - **Tools & DevOps**: Git, GitLab CI/CD, Docker, Kubernetes
-
-
-## 💡 What I Build
-
-I mainly work on:
-- Responsive, accessible user interfaces
-- Clean and well-documented REST APIs
-- Fullstack applications with strong architecture
+- **Frontend**: A bit of Angular
 
 ## 🚀 What I'm Looking For
 
@@ -27,7 +18,7 @@ Always open to interesting tech challenges, smart collaboration, and projects th
 
 You can find me here:
 - [LinkedIn](https://www.linkedin.com/in/sacha-w)
-- [sachawojpro@gmail.com](mailto:sachawojpro@gmail.com)
+- [sachawojpro@gmail.com](mailto:professionnel@sachawski.fr)
 
 ---
 
